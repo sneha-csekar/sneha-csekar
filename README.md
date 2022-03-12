@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### HELLOO, I'm Sneha Chandrasekar (@sneha-csekar)! 👋
+* ⚡ I’m a data analytics enthusiast with a zest for enabling smart decisions and business value 
+* 🌱 Currently pursuing Master's in Business Analytics to strenghten my skills of both Business strategies and Analytics concepts
+* 📫 Reach me at: sneha16696@gmail.com
 <!--
 **sneha-csekar/sneha-csekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
